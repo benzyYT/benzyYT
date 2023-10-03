@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @benzyYT
-- 🌱 I’m currently learning Java
+- 🌱 I'm currently learning TypeScript - React and NextJS
